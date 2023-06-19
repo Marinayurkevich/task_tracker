@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "task": "Visit swimming class",
+      "day": "2023-06-23"
+    },
+    {
+      "id": 2,
+      "task": "Do yoga",
+      "day": "2023-06-25"
+    },
+    {
+      "id": 3,
+      "task": "Feed pets",
+      "day": "2023-06-23"
+    },
+    {
+      "id": 4,
+      "task": "Food shopping",
+      "day": "2023-06-24"
+    },
+    {
+      "id": 5,
+      "task": "Doctor appointment",
+      "day": "2023-06-23"
+    },
+    {
+      "task": "Bascetball class",
+      "day": "2023-06-20",
+      "id": 6
+    }
+  ]
+}

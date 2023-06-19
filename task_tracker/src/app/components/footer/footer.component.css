@@ -1,0 +1,14 @@
+.github_logo {
+  height: 40px;
+  margin: -10px 20px;
+}
+
+.footer_content {
+  padding-top: 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+footer {
+  margin: 20px auto;
+}

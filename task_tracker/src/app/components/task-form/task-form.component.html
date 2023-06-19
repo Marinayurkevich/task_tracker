@@ -1,0 +1,11 @@
+<form (ngSubmit)="onSubmit()">
+  <div class="form_control">
+    <label for="task">Task</label>
+    <input type="text" name="task" [(ngModel)]="task" id="task" placeholder="Add Task">
+  </div>
+  <div class="form_control">
+    <label for="day">Daeadline</label>
+    <input type="date" id="day" name="day" [(ngModel)]="day" value="2023-06-18" min="2023-06-18" max="2025-12-31">
+  </div>
+  <input type="submit" value="Add Task" class="btn btn-primary btn-block">
+</form>

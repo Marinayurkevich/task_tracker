@@ -1,0 +1,13 @@
+.task {
+  background: #e2e9f1;
+  margin: 5px auto;
+  padding: 10px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.task h3 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

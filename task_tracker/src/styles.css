@@ -1,0 +1,27 @@
+.container {
+  max-width: 500px;
+  min-height: 300px;
+  margin: 50px auto;
+  border: 2px solid #007bff;
+  border-radius: 7px;
+  padding: 20px;
+}
+
+
+body,
+button {
+  font-family: 'Montserrat', serif;
+  font-style: normal;
+  letter-spacing: 0.06em;
+
+  /* font-weight: 500;
+  font-size: 44px;
+  letter-spacing: 0.06em; */
+}
+
+p {
+  font-size: 20px;
+}
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
